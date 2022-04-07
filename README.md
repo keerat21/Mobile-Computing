@@ -33,7 +33,7 @@ home.js includes the work done in the previous assignment with some new modifica
 calculator. Vibration on press is added.
 settings.js includes the features that were supposed to be added like the toggle dark/light mode.
 Plus added the pressable eggs just for fun which increases the count by 1.
-References
+# References
 Dr. Trevor M. Tomesh(University of Regina) codes in class
 https://stackoverflow.com/questions/40345214/react-native-passing-variables-from-other-files
 https://reactnative.dev/docs/getting-started
